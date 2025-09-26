@@ -1,0 +1,294 @@
+---
+layout: default
+subtitle: "Full-day workshop"
+---
+
+<style>
+  /* Make all speaker & organizer photos uniform squares */
+  .speakers .card img {
+    width: 100%;
+    aspect-ratio: 1 / 1;   /* enforce square */
+    height: auto;
+    object-fit: cover;      /* crop to fill without distortion */
+    display: block;
+    border-radius: 8px;
+  }
+  /* Optional: tidy text spacing inside cards */
+  .speakers .card .card-body { display: flex; flex-direction: column; }
+  .speakers .card .card-title { margin-bottom: .25rem; }
+  .speakers .card .card-text { margin-top: .25rem; }
+</style>
+
+<!-- about.html -->
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      ICRA 2026 Workshop <span class="font-weight-bold">Xplore</span> on<br>
+      Cross-Disciplinary aspects of <span class="font-weight-bold">Exploration in Robotics, Reinforcement Learning and Search</span>
+    </h1>
+    <p class="desc"><b>{{ page.subtitle }}</b></p>
+  </header>
+
+  <article>
+    <div class="clearfix">
+      <p>
+        Exploration is a fundamental capability for intelligent agents, enabling them to operate effectively in the face of uncertainty, gather information, and adapt to new environments. Despite being studied extensively in fields as diverse as Reinforcement Learning (RL), Search Algorithms (SA), and Robotics (ROB), the research communities around these areas remain largely disconnected. This workshop aims to bridge these communities by developing a unified perspective on exploration, examining both the shared principles and the domain-specific challenges. Key topics include the exploration–exploitation dilemma, safe and efficient exploration in real and simulated environments, open-world and continual exploration, tactile and multimodal exploration, and the role of large models, artificial curiosity, and meta-learning in guiding exploratory behavior. By bringing together researchers from machine learning, robotics, planning, and cognitive sciences, this workshop seeks to catalyze new cross-disciplinary approaches to exploration and lay the foundation for more adaptive, resilient, and autonomous agents.
+      </p>
+
+      <p>
+        <strong>Main objective:</strong> The main objective of this workshop is to bring together researchers from RL, SA, and ROB communities to discuss exploration as a unifying challenge across sequential decision-making, planning, and real-world robotics. While exploration has been central to advances in each of these fields, there has been limited interaction between them. RL research has focused on balancing exploration and exploitation in learning policies; SA has developed systematic and heuristic-driven search strategies; and AR has addressed the physical and safety constraints of navigating unknown environments. By fostering dialogue across these communities, this workshop aims to uncover synergies, compare methodologies, and explore opportunities for hybrid approaches.
+      </p>
+
+      <h4>Discussion Questions</h4>
+      <ul>
+        <li>How can we formalize a unifying framework for exploration that spans reinforcement learning, search, and autonomous robotics?</li>
+        <li>What are effective strategies to balance exploration and exploitation across domains, and how do constraints (safety, resources, horizon length) shape them?</li>
+        <li>How can LLMs, attention mechanisms, or artificial curiosity guide efficient exploration in open-ended environments?</li>
+        <li>What role do abstractions, hierarchies, and diversity measures play in enabling scalable exploration?</li>
+        <li>How can we ensure safe, reset-free, and physically grounded exploration strategies that bridge simulation and reality?</li>
+        <li>What benchmarks and metrics are needed to evaluate exploration across different communities?</li>
+      </ul>
+
+      <h4>Workshop Topics</h4>
+      <ul>
+        <li>Exploration vs. exploitation dilemma</li>
+        <li>Exploration in reinforcement learning, search algorithms, and autonomous robotics</li>
+        <li>Safe exploration and exploration for Sim2Real</li>
+        <li>Large language model–guided exploration</li>
+        <li>Artificial curiosity and intrinsic motivation</li>
+        <li>Exploration in hierarchical and abstract worlds</li>
+        <li>Active learning and proactive querying</li>
+        <li>Evolutionary algorithms for exploration</li>
+        <li>Reward shaping, hacking, and diversity measures</li>
+        <li>Attention and pruning mechanisms</li>
+        <li>Exploration in human–robot interaction</li>
+        <li>Tactile exploration and manipuation in a clutter</li>
+        <li>Exploration in Continual and reset-free learning</li>
+        <li>Horizon-aware exploration and planning for exploration</li>
+        <li>Meta-learning and learning-to-explore</li>
+        <li>Open-ended, open-world exploration</li>
+        <li>Exploration for Visual question answering</li>
+      </ul>
+    </div>
+
+    <!-- SPEAKERS -->
+    <div class="speakers">
+      <h2>Speakers</h2>
+      <div class="grid">
+
+        <!-- Steve LaValle -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/steve-lavalle.jpg" alt="Steve LaValle">
+            <div class="card-body">
+              <h2 class="card-title">Steve LaValle</h2>
+              <h6 class="card-text">University of Oulu · FI
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?hl=en&user=72e5VYEAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Jen Jen Chung -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/jen-jen-chung.jpg" alt="Jen Jen Chung">
+            <div class="card-body">
+              <h2 class="card-title">Jen Jen Chung</h2>
+              <h6 class="card-text">The University of Queensland · AU
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+
+
+        <!-- Peter Auer -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/peter-auer.jpg" alt="Peter Auer">
+            <div class="card-body">
+              <h2 class="card-title">Peter Auer</h2>
+              <h6 class="card-text">Montanuniversität Leoben · AT
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=4q93heUAAAAJ&hl=en&oi=sra" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hermann Blum -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/hermann-blum.jpg" alt="Hermann Blum">
+            <div class="card-body">
+              <h2 class="card-title">Hermann Blum</h2>
+              <h6 class="card-text">University of Bonn· DE
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=2Pxx8QIAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Antonin Raffin -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/antonin-raffin.jpg" alt="Antonin Raffin">
+            <div class="card-body">
+              <h2 class="card-title">Antonin Raffin</h2>
+              <h6 class="card-text">DLR · DE
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?hl=fr&user=kik4AwIAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dorsa Sadigh -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/dorsa-sadigh.jpg" alt="Dorsa Sadigh">
+            <div class="card-body">
+              <h2 class="card-title">Dorsa Sadigh</h2>
+              <h6 class="card-text">Stanford University · USA
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?hl=en&user=ZaJEZpYAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bakir Lacevic -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/bakir-lacevic.jpg" alt="Bakir Lacevic">
+            <div class="card-body">
+              <h2 class="card-title">Bakir Lacevic</h2>
+              <h6 class="card-text">University of Sarajevo · BA
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=SgGLWuwAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        
+
+        <!-- Julie Shah -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/speakers/julie-shah.jpg" alt="Julie Shah">
+            <div class="card-body">
+              <h2 class="card-title">Julie Shah</h2>
+              <h6 class="card-text">MIT · USA
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=-fPI9LgAAAAJ&hl=en&oi=sra" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ORGANIZERS (same layout as speakers) -->
+    <div class="speakers">
+      <h2>Organizers</h2>
+      <div class="grid">
+
+        <!-- Zlatan Ajanovic -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/organizers/zlatan-ajanovic.jpg" alt="Zlatan Ajanovic">
+            <div class="card-body">
+              <h2 class="card-title">Zlatan Ajanovic</h2>
+              <h6 class="card-text">RWTH Aachen
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=xOHyrYAAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                  <a href="https://zlatanajanovic.com/" title="Website" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-address-card"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Marija Popovic -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/organizers/marija-popovic.jpg" alt="Marija Popovic">
+            <div class="card-body">
+              <h2 class="card-title">Marija Popovic</h2>
+              <h6 class="card-text">TU Delft
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=XON8iQoAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                  <a href="https://www.tudelft.nl/en/staff/m.popovic/" title="Website" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-address-card"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+        <!-- Pulkit Verma -->
+        <div class="grid-item">
+          <div class="card hoverable">
+            <img loading="lazy" src="/assets/img/organizers/pulkit-verma.jpg" alt="Pulkit Verma">
+            <div class="card-body">
+              <h2 class="card-title">Pulkit Verma</h2>
+              <h6 class="card-text">MIT
+                <div class="affiliate">
+                  <a href="https://scholar.google.com/citations?user=5lg9EsoAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank" rel="noopener noreferrer">
+                    <i class="ai ai-google-scholar"></i>
+                  </a>
+                  <a href="https://pulkitverma.net/" title="Website" target="_blank" rel="noopener noreferrer">
+                    <i class="fas fa-address-card"></i>
+                  </a>
+                </div>
+              </h6>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- QUESTIONS / CONTACT -->
+    <h3 class="post-title"><span class="font-weight-bold">Questions</span></h3>
+    Contact us at <a href="mailto:xploreworkshop@gmail.com" target="_blank">xploreworkshop@gmail.com</a>.
+  </article>
+</div>
