@@ -33,14 +33,21 @@ We invite submissions related (but not limited) to the following topics:
 
 <!-- No Important Dates section included because dates were not provided. -->
 
+## Important Dates
+All deadlines are Anywhere on Earth (AoE).
+
+- **Submission Deadline:** April 20, 2026 (23:59 AoE)
+- **Camera Ready Submission:** May 20, 2026 (23:59 AoE)
+- **Workshop Day:** June 5, 2026
+
+Submissions are reviewed on a **rolling basis**.
+
 ## Submission Details
 
 To encourage participation and foster high-quality discussions from a broad community, we plan to:
 
-- Announce open calls for submissions on this website **at least 2 months before** the submission deadline.
 - Notify authors **at least 1.5 months before** the workshop to facilitate travel plans.
-- Present accepted submissions on the website prior to the conference and as **spotlight talks** during the workshop.
-- Target **~10 accepted submissions**, with each spotlight **~6 minutes** (no Q&A).
+- Present accepted submissions on the website prior to the conference and as **spotlight talks** during the work
 - Host a **poster session** and a **junior panel** for deeper interaction.
 - Invite a subset of authors to the **junior panel** to discuss challenges, emerging topics, and blue-sky ideas.
 
@@ -66,6 +73,14 @@ These two categories will be **managed separately**, so there is **no competitio
 
 **Selection preference:**
 - Works at the **intersection** of multiple workshop topics are favored.
+
+### Submit Your Work
+Authors can submit their work via OpenReview:
+
+**[Submit on OpenReview →](https://openreview.net/group?id=IEEE.org/ICRA/2026/Workshop/Xplore)**
+
+> **Note:** Submission requires an OpenReview account. Accounts registered without an educational or institutional email address may take **up to two weeks** to be approved — please plan accordingly.
+
 
 ## Questions
 

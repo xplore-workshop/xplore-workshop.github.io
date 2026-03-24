@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICRA 2026 in Vienna, Austria on July 5th 2026. The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone, Central European Time (CET), can be found below.
+description: This workshop will be held in-person at ICRA 2026 in Vienna, Austria on June 5th 2026. The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone, Central European Time (CET), can be found below.
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
