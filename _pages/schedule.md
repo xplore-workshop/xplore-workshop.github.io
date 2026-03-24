@@ -18,7 +18,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>09:00&nbsp;–&nbsp{nbsp}09:10</td>
+    <td>09:00&nbsp;–&nbsp;09:10</td>
     <td></td>
     <td>Introduction and Welcome by Workshop Organizers</td>
   </tr>
