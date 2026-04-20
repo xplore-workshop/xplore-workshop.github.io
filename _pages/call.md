@@ -36,20 +36,12 @@ We invite submissions related (but not limited) to the following topics:
 ## Important Dates
 All deadlines are Anywhere on Earth (AoE).
 
-- **Submission Deadline:** April 20, 2026 (23:59 AoE)
+- **Submission Deadline:** April 27, 2026 (23:59 AoE)
 - **Camera Ready Submission:** May 20, 2026 (23:59 AoE)
 - **Workshop Day:** June 5, 2026
 
-Submissions are reviewed on a **rolling basis**.
-
 ## Submission Details
 
-To encourage participation and foster high-quality discussions from a broad community, we plan to:
-
-- Notify authors **at least 1.5 months before** the workshop to facilitate travel plans.
-- Present accepted submissions on the website prior to the conference and as **spotlight talks** during the work
-- Host a **poster session** and a **junior panel** for deeper interaction.
-- Invite a subset of authors to the **junior panel** to discuss challenges, emerging topics, and blue-sky ideas.
 
 ### Tracks & Format
 We plan to accept **two kinds of submissions**:
@@ -58,21 +50,16 @@ We plan to accept **two kinds of submissions**:
    - Journal papers that have not been discussed at a conference.
    - Conference papers from other Robotics and Machine Learning/AI venues where a focused community discussion would add value.
 
-These two categories will be **managed separately**, so there is **no competition** between already peer-reviewed work and preliminary results.
-
 **Length & Style:**
 - **Paper (long):** up to **6 pages** (excluding references).  
 - **Extended abstract:** up to **2 pages** (excluding references).  
-- Use the **IEEE conference style** (no template link provided).
+- Use the **[IEEE conference style](https://ras.papercept.net/conferences/support/tex.php)**: .
 
 **Review:**
 - **Single-blind** review process.
 
 **Multimedia:**
 - Authors are encouraged to include **videos** illustrating their work.
-
-**Selection preference:**
-- Works at the **intersection** of multiple workshop topics are favored.
 
 ### Submit Your Work
 Authors can submit their work via OpenReview:
