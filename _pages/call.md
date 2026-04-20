@@ -36,7 +36,7 @@ We invite submissions related (but not limited) to the following topics:
 ## Important Dates
 All deadlines are Anywhere on Earth (AoE).
 
-- **Submission Deadline:** --April 20-- April 27, 2026 (23:59 AoE)
+- **Submission Deadline:** ~~April 20~~ April 27, 2026 (23:59 AoE)
 - **Camera Ready Submission:** May 20, 2026 (23:59 AoE)
 - **Workshop Day:** June 5, 2026
 
