@@ -4,7 +4,7 @@ permalink: /submissions/
 title: Call for Papers
 description: Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <br>
