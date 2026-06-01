@@ -134,12 +134,17 @@
     <td>09:40 – 10:10</td>
     <td>Invited Talk</td>
     <td>
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/jens-kober.jpg" alt="Jens Kober" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
         <div>
-<b>Jens Kober</b><br><i>Title and Abstract TBA</i>
-</div>
+<b>Jens Kober</b> (University of Stuttgart &amp; Fraunhofer IPA)</div>
       </div>
+      <details>
+        <summary><i>Exploring with a little (human) help</i></summary>
+        <br>
+        <p><b>Abstract:</b> Autonomous exploration in reinforcement learning can be extremely inefficient and time-consuming, so a robot might benefit from a little help in this setting. In this presentation, I'll introduce a few ideas for guiding exploration, ranging from uncertainty estimation to LLMs to interactions with human teachers.</p>
+        <p><b>Bio:</b> Jens Kober is a full professor at the University of Stuttgart, Germany, and a Research Team Lead at Fraunhofer IPA. He previously worked as an associate professor at the TU Delft, Netherlands, and as a postdoctoral scholar jointly at the CoR-Lab, Bielefeld University, Germany and the Honda Research Institute Europe, Germany. He graduated in 2012 with a PhD Degree in Engineering from TU Darmstadt and the MPI for Intelligent Systems. For his research, he received the annually awarded Georges Giralt PhD Award for the best PhD thesis in robotics in Europe, the 2018 IEEE RAS Early Academic Career Award, the 2022 RSS Early Career Award, and has received an ERC Starting grant. His research interests include motor skill learning, (deep) reinforcement learning, imitation learning, interactive learning, and machine learning for control.</p>
+      </details>
     </td>
   </tr>
 
@@ -238,12 +243,18 @@
     <td>16:30 – 17:00</td>
     <td>Invited Talk</td>
     <td>
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/sebastian.jpg" alt="Sebastian Tschiatschek" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
         <div>
-<b>Sebastian Tschiatschek</b><br><i>Exploration in Continuous Control RL</i>
-</div>
+<b>Sebastian Tschiatschek</b> (University of Vienna)</div>
       </div>
+      <details>
+        <summary><i>Structuring Uncertainty: Active Reward and Constraint Learning for Safe Reinforcement Learning</i></summary>
+        <br>
+        <p><b>Abstract:</b> Sequential decision-making under uncertainty faces a fundamental trilemma: the need to navigate unknown environments efficiently (exploration), the requirement to respect safety boundaries (constraint learning), and the necessity to align learned policies with complex, unobserved human intentions (reward learning). Standard reinforcement learning methods often struggle in this regime, as they frequently decouple exploration from reward and safety objectives, potentially leading to catastrophic safety violations or sample-inefficient learning.</p>
+        <p>In this talk, we present a series of works for structuring uncertainty across these three dimensions. First, we introduce Successor Uncertainties, a method to robustly manage epistemic uncertainty in deep reinforcement learning by decoupling transition dynamics from reward parameters. Second, we discuss Information-Directed Reward Learning (IDRL) and Adaptive Constraint Learning (ACOL), which utilize active query selection to resolve policy ambiguities and refine safety boundaries efficiently. Third, we address the offline identification of safety envelopes through Convex Constraint Representation Learning (CoCoRL), enabling agents to operate safely. Finally, we explore learner-aware teaching frameworks, which leverage structured guidance to accelerate and steer the learning process.</p>
+        <p><b>Bio:</b> Sebastian Tschiatschek is Professor of Machine Learning at the University of Vienna, focusing on the intersection of reinforcement learning, uncertainty quantification, and human-in-the-loop interaction. His work develops principled, sample-efficient frameworks for exploration, specializing in active reward and constraint learning to align autonomous agents with human intentions. Previously, he was a senior researcher at Microsoft Research and a postdoctoral researcher at ETH Zurich. He obtained his PhD from Graz University of Technology.</p>
+      </details>
     </td>
   </tr>
 
@@ -257,7 +268,7 @@
 <b>Antonin Raffin</b> (German Aerospace Center, DLR)</div>
       </div>
       <details>
-        <summary><i>Title TBD</i></summary>
+        <summary><i>Exploration in Continuous Control RL</i></summary>
         <br>
         <p><b>Bio:</b> Antonin Raffin is a research engineer at the German Aerospace Center (DLR) who specializes in reinforcement learning (RL). He is the lead developer of Stable-Baselines3 (SB3), an open-source library that implements Deep RL algorithms. His main focus is on learning controllers directly on real robots and improving the reproducibility of RL.</p>
       </details>
