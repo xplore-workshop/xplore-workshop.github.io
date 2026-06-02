@@ -27,10 +27,15 @@ nav_order: 2
     <td>09:10&nbsp;–&nbsp;09:40</td>
     <td>Invited Talk</td>
     <td>
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/peter-auer.jpg" alt="Peter Auer" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
-        <div><b>Peter Auer</b><br><i>Title and Abstract TBA</i></div>
+        <div><b>Peter Auer</b> (Technical University of Leoben)</div>
       </div>
+      <details>
+        <summary><i>Exploration for Sufficiently Good Policies</i></summary>
+        <br>
+        <p><b>Bio:</b> Peter Auer is full professor for Information Technology at the Technical University of Leoben, Austria. His current research interests include Machine Learning focused on autonomous learning and exploration algorithms, in particular multi-armed bandit problems and reinforcement learning.</p>
+      </details>
     </td>
   </tr>
 
@@ -96,10 +101,15 @@ nav_order: 2
     <td>14:00&nbsp;–&nbsp;14:30</td>
     <td>Invited Talk</td>
     <td>
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/hermann-blum.jpg" alt="Hermann Blum" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
-        <div><b>Hermann Blum</b><br><i>Map Representations for Robotic Exploration and Search</i></div>
+        <div><b>Hermann Blum</b> (Lamarr Institute / University of Bonn)</div>
       </div>
+      <details>
+        <summary><i>Map Representations for Robotic Exploration and Search</i></summary>
+        <br>
+        <p><b>Bio:</b> Hermann Blum is a junior professor at the Lamarr Institute / Uni Bonn. Previously, he worked as a PostDoc in the Computer Vision and Geometry Lab of ETH Zürich. For his PhD he was part of the Autonomous Systems Lab at ETH Zürich. His research focuses on embodied perception. He strives to build models and methods to understand an agent's environment semantically and geometrically. Recently, he is most interested in interactions with the environment for applications such as robotic manipulation, video understanding, and mixed-reality.</p>
+      </details>
     </td>
   </tr>
 
@@ -129,10 +139,15 @@ nav_order: 2
     <td>16:00&nbsp;–&nbsp;16:30</td>
     <td>Invited Talk</td>
     <td>
-      <div style="display:flex; align-items:center; gap:12px;">
+      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/bakir-lacevic.jpg" alt="Bakir Lacevic" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
-        <div><b>Bakir Lacevic</b><br><i>Configuration-Space Exploration for Motion Planning Using Distance Information</i></div>
+        <div><b>Bakir Lacevic</b> (University of Sarajevo)</div>
       </div>
+      <details>
+        <summary><i>Configuration-Space Exploration for Motion Planning Using Distance Information</i></summary>
+        <br>
+        <p><b>Bio:</b> Bakir Lacevic received the Dipl.-Ing. and Magister degrees in automatic control from the University of Sarajevo, Sarajevo, Bosnia and Herzegovina, in 2003 and 2007, respectively, and the Ph.D. degree in information technology from Politecnico di Milano, Milano, Italy, in 2011. Currently, he is an Associate Professor with the Faculty of Electrical Engineering, University of Sarajevo, where he teaches courses in robotics and modeling/identification of dynamic systems. His research interests include robotic motion planning, human-robot interaction, optimization and machine learning.</p>
+      </details>
     </td>
   </tr>
 
@@ -155,7 +170,7 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>17:00&nbsp;–&nbsp;17:20</td>
+    <td>17:00&nbsp;–&nbsp;17:30</td>
     <td>Invited Talk</td>
     <td>
       <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
@@ -171,7 +186,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>17:20&nbsp;–&nbsp;17:30</td>
+    <td>17:30&nbsp;–&nbsp;17:35</td>
     <td></td>
     <td>Closing Remarks: What we have learned throughout the day</td>
   </tr>
