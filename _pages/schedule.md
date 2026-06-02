@@ -59,7 +59,17 @@ nav_order: 2
   <tr class="header">
     <td>10:10&nbsp;–&nbsp;10:40</td>
     <td>Spotlights</td>
-    <td>Spotlight Talks</td>
+    <td>
+      <b>Session 1: Planning, Control, &amp; Autonomous Navigation</b>
+      <ol style="margin-top:6px; margin-bottom:0; padding-left:18px;">
+        <li style="margin-bottom:4px;">Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation<br><small>Lorenzo Ortolani, Gabriel Voss, Gabriele Beltrami, Francesco Dorati, Tommaso Felice Banfi</small></li>
+        <li style="margin-bottom:4px;">Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles<br><small>Ye Li, Yewei Huang, Wenlong Gaozhang, Alberto Quattrini Li, Brendan Englot, Yuanchang Liu</small></li>
+        <li style="margin-bottom:4px;">Mobile Robots Exploration Strategies and Requirements: A Systematic Mapping Study<br><small>Davide Brugali, Luca Muratore</small></li>
+        <li style="margin-bottom:4px;">CACTO-BIC: Scalable Actor-Critic Learning via Biased Sampling and GPU-Accelerated Trajectory Optimization<br><small>Elisa Alboni, Pietro Noah Crestaz, Elias Fontanari, Andrea Del Prete</small></li>
+        <li style="margin-bottom:4px;">Beyond Reactive Adaptation: Long-Horizon Memory for Autonomous Racing via State Space Models<br><small>Grzegorz Czechmanowski, Jan Węgrzynowski, Piotr Kicki, Krzysztof Walas</small></li>
+        <li style="margin-bottom:4px;">Stability-Guided Exploration for Diverse Motion Generation<br><small>Eckart Cobo-Briesewitz, Tilman Burghoff, Denis Shcherba, Armand Jordana, Marc Toussaint</small></li>
+      </ol>
+    </td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -92,7 +102,20 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>13:00&nbsp;–&nbsp;14:00</td>
+    <td>13:00&nbsp;–&nbsp;13:15</td>
+    <td>Spotlights</td>
+    <td>
+      <b>Session 2: Learning from Weak Supervision &amp; Data-Efficient Exploration</b>
+      <ol style="margin-top:6px; margin-bottom:0; padding-left:18px;">
+        <li style="margin-bottom:4px;">Mixture of Autoencoder Experts Guidance using Unlabeled and Incomplete Data for Exploration in Reinforcement Learning<br><small>Elias Malomgré, Pieter Simoens</small></li>
+        <li style="margin-bottom:4px;">Efficient Rare-Event Sampling in Diffusion Policies for Motion Discovery<br><small>Dian Yu, Sebastian Sanokowski, Majid Khadiv</small></li>
+        <li style="margin-bottom:4px;">From Exploration to Reuse: An Embodied Agent Framework for Manipulation Skill Learning (MARS)<br><small>Mohamed Roshdi, Alexander Zorn, Jörg Kindermann, Hermann Blum</small></li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+    <td>13:15&nbsp;–&nbsp;14:00</td>
     <td>Panel</td>
     <td>Junior Panel</td>
   </tr>
