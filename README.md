@@ -1,1 +1,4 @@
-# Structured Probabilistic Inference and Generative Modeling 2024 
+# Xplore ICRA 2026
+
+
+bundle exec jekyll serve
