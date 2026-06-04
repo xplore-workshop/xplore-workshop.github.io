@@ -68,7 +68,7 @@ nav_order: 2
     <td>
       <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
         <img src="/assets/img/speakers/steve-lavalle.jpg" alt="Steve LaValle" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
-        <div><b>Steve LaValle</b> (University of Oulu &amp; University of Illinois)</div>
+        <div><b>Steve LaValle</b> (University of Oulu)</div>
       </div>
       <details>
         <summary><i>Some Amusing Connections Between Search, Planning, and RL</i></summary>
