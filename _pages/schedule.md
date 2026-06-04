@@ -20,27 +20,11 @@ nav_order: 2
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>09:00&nbsp;–&nbsp;09:10</td>
     <td></td>
-    <td>Introduction and Welcome by Workshop Organizers</td>
+    <td>Welcome &amp; Introduction by Workshop Organizers</td>
   </tr>
 
   <tr class="header">
     <td>09:10&nbsp;–&nbsp;09:40</td>
-    <td>Invited Talk</td>
-    <td>
-      <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
-        <img src="/assets/img/speakers/peter-auer.jpg" alt="Peter Auer" style="width:52px; height:52px; border-radius:50%; object-fit:cover; flex-shrink:0;">
-        <div><b>Peter Auer</b> (Technical University of Leoben)</div>
-      </div>
-      <details>
-        <summary><i>Exploration for Sufficiently Good Policies</i></summary>
-        <br>
-        <p><b>Bio:</b> Peter Auer is full professor for Information Technology at the Technical University of Leoben, Austria. His current research interests include Machine Learning focused on autonomous learning and exploration algorithms, in particular multi-armed bandit problems and reinforcement learning.</p>
-      </details>
-    </td>
-  </tr>
-
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>09:40&nbsp;–&nbsp;10:10</td>
     <td>Invited Talk</td>
     <td>
       <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
@@ -56,8 +40,8 @@ nav_order: 2
     </td>
   </tr>
 
-  <tr class="header">
-    <td>10:10&nbsp;–&nbsp;10:40</td>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+    <td>09:40&nbsp;–&nbsp;10:20</td>
     <td>Spotlights</td>
     <td>
       <b>Session 1: Planning, Control, &amp; Autonomous Navigation</b>
@@ -72,14 +56,14 @@ nav_order: 2
     </td>
   </tr>
 
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>10:40&nbsp;–&nbsp;11:00</td>
+  <tr class="header">
+    <td>10:20&nbsp;–&nbsp;11:00</td>
     <td></td>
     <td>Coffee Break</td>
   </tr>
 
-  <tr class="header">
-    <td>11:00&nbsp;–&nbsp;12:00</td>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+    <td>11:00&nbsp;–&nbsp;11:30</td>
     <td>Invited Talk</td>
     <td>
       <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
@@ -95,14 +79,8 @@ nav_order: 2
     </td>
   </tr>
 
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>12:00&nbsp;–&nbsp;13:00</td>
-    <td></td>
-    <td>Lunch</td>
-  </tr>
-
   <tr class="header">
-    <td>13:00&nbsp;–&nbsp;13:15</td>
+    <td>11:30&nbsp;–&nbsp;11:45</td>
     <td>Spotlights</td>
     <td>
       <b>Session 2: Learning from Weak Supervision &amp; Data-Efficient Exploration</b>
@@ -115,9 +93,15 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>13:15&nbsp;–&nbsp;14:00</td>
+    <td>11:45&nbsp;–&nbsp;12:30</td>
     <td>Panel</td>
     <td>Junior Panel</td>
+  </tr>
+
+  <tr class="header">
+    <td>12:30&nbsp;–&nbsp;14:00</td>
+    <td></td>
+    <td>Posters &amp; Lunch</td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
