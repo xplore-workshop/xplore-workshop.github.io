@@ -51,7 +51,7 @@ nav_order: 2
         <li style="margin-bottom:4px;">CACTO-BIC: Scalable Actor-Critic Learning via Biased Sampling and GPU-Accelerated Trajectory Optimization<br><small>Elisa Alboni, Pietro Noah Crestaz, Elias Fontanari, Andrea Del Prete</small></li>
         <li style="margin-bottom:4px;">Beyond Reactive Adaptation: Long-Horizon Memory for Autonomous Racing via State Space Models<br><small>Grzegorz Czechmanowski, Jan Węgrzynowski, Piotr Kicki, Krzysztof Walas</small></li>
         <li style="margin-bottom:4px;">Stability-Guided Exploration for Diverse Motion Generation<br><small>Eckart Cobo-Briesewitz, Tilman Burghoff, Denis Shcherba, Armand Jordana, Marc Toussaint</small></li>
-        <li style="margin-bottom:4px;">Mobile Robots Exploration Strategies and Requirements: A Systematic Mapping Study<br><small>Davide Brugali, Luca Muratore</small></li>
+        <li style="margin-bottom:4px;">(Spotlight Review) Mobile Robots Exploration Strategies and Requirements: A Systematic Mapping Study<br><small>Davide Brugali, Luca Muratore</small></li>
       </ol>
     </td>
   </tr>
