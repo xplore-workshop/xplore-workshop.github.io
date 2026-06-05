@@ -57,7 +57,7 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>10:20&nbsp;–&nbsp;11:00</td>
+    <td>10:30&nbsp;–&nbsp;11:00</td>
     <td></td>
     <td>Coffee Break</td>
   </tr>
