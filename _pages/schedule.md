@@ -63,7 +63,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>11:00&nbsp;–&nbsp;11:30</td>
+    <td>11:00&nbsp;–&nbsp;12:00</td>
     <td>Invited Talk</td>
     <td>
       <div style="display:flex; align-items:center; gap:12px; margin-bottom:6px;">
@@ -80,7 +80,7 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>11:30&nbsp;–&nbsp;11:45</td>
+    <td>12:00&nbsp;–&nbsp;12:15</td>
     <td>Spotlights</td>
     <td>
       <b>Session 2: Learning from Weak Supervision &amp; Data-Efficient Exploration</b>
@@ -93,7 +93,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>11:45&nbsp;–&nbsp;12:30</td>
+    <td>12:15&nbsp;–&nbsp;12:45</td>
     <td>Panel</td>
     <td>Junior Panel</td>
   </tr>
